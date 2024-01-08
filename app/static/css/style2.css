@@ -1,0 +1,15 @@
+.price-group {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.price-group h2 {
+    color: #333;
+}
+
+.game {
+    background-color: #f9f9f9;
+    margin: 10px;
+    padding: 5px;
+}
